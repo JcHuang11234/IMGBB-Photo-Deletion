@@ -39,7 +39,7 @@ pip install selenium
 1. **Clone or download this repository:**
 
    ```bash
-   git clone https://github.com/your-repository-name
+   git clone https://github.com/JcHuang11234/IMGBB-Photo-Deletion.git
    ```
 
 2. **Modify the script:**
