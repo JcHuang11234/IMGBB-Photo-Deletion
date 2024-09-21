@@ -51,15 +51,7 @@ pip install selenium
    password_field.send_keys("YOUR-PASSWORD")
    ```
 
-3. **Run the script:**
-
-   Run the Python script with the following command:
-
-   ```bash
-   python delete_photos_imgbb.py
-   ```
-
-4. **Input the number of photos to delete:**
+3. **Input the number of photos to delete:**
 
    When prompted, enter the total number of photos you want to delete from your imgbb account.
 
@@ -68,6 +60,9 @@ pip install selenium
    ```bash
    Enter the total number of photos you want to delete: 100
    ```
+
+ 4. **Run the script:**
+
 
 ## How it Works
 
