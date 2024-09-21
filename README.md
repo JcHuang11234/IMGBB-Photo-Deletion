@@ -61,7 +61,7 @@ pip install selenium
    Enter the total number of photos you want to delete: 100
    ```
 
- 4. **Run the script:**
+ 4. **Run the script**
 
 
 ## How it Works
